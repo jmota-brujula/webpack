@@ -31,7 +31,8 @@
       "Backbone": false,
       "console": false,
       "window": false,
-      "require": false
+      "require": false,
+      "module": false
     },
     "parserOptions": {
       "ecmaVersion": 6
